@@ -3,4 +3,4 @@ Arduino application to test the basic interfaces for the 3-wheel Rover robot wit
 
 The LAFVIN Arduino UNO R3 on the Rover robot may require a USB driver install on your PC to upload your program in the Arduino IDE to your robot.  Follow the directions at (https://lafvintech.com/blogs/new/how-to-install-ch340-driver-on-windows) to download and install the USB drivers if your IDE returns an error when uploading your program.
 
-This project was done December 3, 2024.
+This Group project was done December 3, 2024.
